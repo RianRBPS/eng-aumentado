@@ -3,3 +3,5 @@ uvicorn
 sqlalchemy
 pandas
 psycopg2
+pydantic
+psycopg2-binary
